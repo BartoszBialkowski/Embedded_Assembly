@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\Debug/Emb_assembly.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Emb_assembly.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Emb_assembly.map</FILE>
+  <FILE>Emb_assembly.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <_main><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>49</LINE></_main>
+  <_timer_isr><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>8</LINE></_timer_isr>
+  <Divide><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>159</LINE></Divide>
+  <NumberToDigits><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>121</LINE></NumberToDigits>
+  <DigitTo7segCode><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>204</LINE></DigitTo7segCode>
+  <MainLoop><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>111</LINE></MainLoop>
+  <DelayInMs><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>222</LINE></DelayInMs>
+  <End><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>118</LINE></End>
+  <condition><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>183</LINE></condition>
+  <content><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>178</LINE></content>
+  <Table><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>218</LINE></Table>
+  <ZIncrementation><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>209</LINE></ZIncrementation>
+  <EndOfZIncrementation><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>214</LINE></EndOfZIncrementation>
+  <Loop><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>229</LINE></Loop>
+  <DelayOneMs><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>238</LINE></DelayOneMs>
+  <Loop2><FILE>C:\Users\Uzytkownik\Desktop\studia\Assembly_Project\AVR\test_2.asm</FILE><LINE>245</LINE></Loop2>
+ </LABELS>
+</ASSEMBLER_INFO>
